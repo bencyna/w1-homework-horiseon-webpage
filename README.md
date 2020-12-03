@@ -14,13 +14,13 @@ This project was designed to increase the readability and fluidity of the html a
 - Make common classes to reduce css code
 
 ## Usage 
-![Image of website buttons](assets/images/screenshot62.png)
+![Image of website buttons](./assets/images/screenshot62.png)
 
-![Image of code for buttons](assets/images/screenshot63.png)
+![Image of code for buttons](./assets/images/screenshot63.png)
 
 The above image represent the code used for creatinng the headings (screenshot63) while screenshot 62 is the visual representation of the code. The below image represents the code used to allow these buttons to redirect the page to the imformation regarding the heading names.
 
-![Image of website buttons](assets/images/screenshot64.png)
+![Image of website buttons](./assets/images/screenshot64.png)
 
 The id in the image above was inserted to allow all buttons to be functional
 
