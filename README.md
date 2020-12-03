@@ -23,7 +23,7 @@ The above image represent the code used for creatinng the headings (screenshot63
 ![Image of website buttons](assets/images/screenshot64.png)
 
 The id in the image above was inserted to allow all buttons to be functional
-a
+
 
 ## credits 
 https://adelaide.bootcampcontent.com/the-university-of-adelaide/uadel-adel-fsf-pt-11-2020-u-c.git
